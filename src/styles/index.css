@@ -21,6 +21,7 @@
   --gradient-surface: linear-gradient(135deg, rgba(108, 92, 231, 0.1) 0%, rgba(0, 212, 255, 0.05) 100%);
 
   --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
   --font-mono: 'JetBrains Mono', 'Courier New', monospace;
 
   --section-padding: 120px 8%;
@@ -198,5 +199,6 @@ h1, h2, h3, h4, h5 {
     --section-padding: var(--section-padding-mobile);
   }
 }
+
 
 

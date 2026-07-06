@@ -7,6 +7,7 @@ function Hero() {
       <video autoPlay muted loop playsInline className="hero__video">
         <source src="/videos/blackhole.webm" type="video/webm" />
       </video>
+      <div className="hero__vignette"></div>
       <HeroContent />
     </section>
   );
